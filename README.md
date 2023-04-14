@@ -26,3 +26,11 @@ R. Wandika Hadi Iswara | G6401201109
 - Jika terjadi eror build v143, maka update versi Visual Studio menjadi 2022
 
 - Jika aplikasi tidak bisa dijalankan, ganti seluruh file `*.dll` pada direktori `/bin` dengan file `*.dll` baru dari project generator openFramework
+
+## Prototipe
+
+Sketsa kasar:
+
+<img width="486" alt="Sketsa Kasar" src="https://user-images.githubusercontent.com/65883882/232121125-8d0f8883-f86f-4a43-b140-fb8b83cb3c6a.png">
+
+[Tautan Figma](https://www.figma.com/file/NVzPGUSWQRff5Dcdocm26c/Capstone-Prototype?node-id=0%3A1&t=AyRCCjYQTaDcZNJh-1)
