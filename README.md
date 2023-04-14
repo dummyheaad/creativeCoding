@@ -27,6 +27,8 @@ R. Wandika Hadi Iswara | G6401201109
 
 - Jika aplikasi tidak bisa dijalankan, ganti seluruh file `*.dll` pada direktori `/bin` dengan file `*.dll` baru dari project generator openFramework
 
+- Jangan add/stage perubahan pada direktori `/bin` dan `/addons` ke dalam commit
+
 ## Prototipe
 
 Sketsa kasar:
